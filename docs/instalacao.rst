@@ -30,18 +30,17 @@ Modo local
   * Extraia os arquivos baixados dentro do diretorio **www** 
   * Renomeie de acordo com o nome do seu site,
   * Acesse localhost/phpmyadmin/
-  * crie um banco de dados (preferência com o mesmo nome que do seu site)
+  * Crie um banco de dados (preferência com o mesmo nome que do seu site)
   * Acesse pelo o browser **localhost/nome da pasta do seu site/**
   * Será direcionado para página de instalação do WordPress
       - digite o nome do banco de dados criado anteriormente
       - digite o usuario: por padrão é root
       - o campo de senha: deixe em branco
       - servidor do bd: localhost
-      - prefixo da tabela: wp
-        
-  * clique em enviar, depois instalar, pronto!
+      - prefixo da tabela: wp   
+  * Clique em enviar, depois instalar, pronto!
   
-  Depois disso basta escolher usuário, senha e email para poder acessar. 
+  Depois disso basta escolher usuário, senha e email para poder acessar o painel de acesso do WordPress. 
 
 
 WordPress local para Site Web
