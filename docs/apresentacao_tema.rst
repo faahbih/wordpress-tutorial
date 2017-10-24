@@ -24,17 +24,16 @@ Apresentação do Tema
 		  	4. Widgets
 		  	5. Página inicial estática
 		  	6. Ordem e estilo da seção
-
-		  	     a) Seção: Hero
-		  	     b) Seção: Features
-		  	     c) Seção: About
-		  	     d) Seção: Services
-		  	     e) Seção: Showreel
-		  	     f) Seção: Gallery
-		  	     g) Seção: Team
-		  	     h) Seção: News
-		  	     i) Seção: Contact
-		  	     ii) Seção: Shop
+		  	     * Seção: Hero
+		  	     * Seção: Features
+		  	     * Seção: About
+		  	     * Seção: Services
+		  	     * Seção: Showreel
+		  	     * Seção: Gallery
+		  	     * Seção: Team
+		  	     * Seção: News
+		  	     * Seção: Contact
+		  	     * Seção: Shop
 		  	7. CSS adicional
 	 
 	 Falaremos mais detalhamente a seguir.

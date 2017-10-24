@@ -10,7 +10,8 @@ Opções do tema
 	* Perfis das redes sociais, 
 	* Boletim Informativo, 
 	* Página do post.
-	  
+	
+	
 	Em Padrão:
 		* Nesta opção, pode ser alterado o estilo do site, com ou sem barra lateral, cabeçalho fixo, etc.
 

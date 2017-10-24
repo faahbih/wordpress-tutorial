@@ -11,6 +11,9 @@ Tutorial de Instalação e Manutenção WordPress
    requisitos
    instalacao
    apresentacao_tema
+   titulo_subtitulo_logo
+   opcao_do_tema
+   menus
 
 
 .. _about-docs:
