@@ -20,7 +20,7 @@ Modo local
   Passo a passo:
 
   * faça o download do `WAMP <http://www.profissionaisti.com.br/2012/03/instalando-apache-php-mysql-no-windows-com-wamp/>`_.
-  * configure o arquivo php.ini no diretório: C:\wamp64\bin\apache\apache2.4.27\bin (onde normalmente fica instalado)
+  * configure o arquivo php.ini no diretório:  `C:wamp64\bin\apache\apache2.4.27\bin` (onde normalmente fica instalado)
   * Abra o arquivo php.ini no bloco de notas ou qlqr outro editor
       * edite as variáveis: memory_limit = 128M e upload_max_sizing = 2M para **750M**
       * salvar
