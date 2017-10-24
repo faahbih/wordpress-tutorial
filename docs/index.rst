@@ -10,7 +10,7 @@ Tutorial de Instalação e Manutenção WordPress
 
    requisitos
    instalacao
-   manutencao
+   apresentacao_tema
 
 
 .. _about-docs:
