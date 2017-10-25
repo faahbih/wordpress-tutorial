@@ -7,7 +7,7 @@ Menus
 		  
 		.. note:: Não precisamos nos preocupar com o primeiro item apenas com o segundo.
 
-		No menu primary aparecerá todos itens que ficaram no menu ao lado do logo.
+		No menu primary aparecerá todos itens que ficam no menu ao lado do logo.
 
 			* Features
 			* About

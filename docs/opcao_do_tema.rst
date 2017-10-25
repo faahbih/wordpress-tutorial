@@ -4,12 +4,13 @@ Opções do tema
 	Vá em **aparência** > **personalizar** > **opções do tema**
 	
 	Aparecerá no lado esquerdo um menu com as opções: 
-	* Padrão, 
-	* Cores do site, 
-	* Header, 
-	* Perfis das redes sociais, 
-	* Boletim Informativo, 
-	* Página do post.
+	
+		* Padrão, 
+		* Cores do site, 
+		* Header, 
+		* Perfis das redes sociais, 
+		* Boletim Informativo, 
+		* Página do post.
 	
 	
 	Em Padrão:
