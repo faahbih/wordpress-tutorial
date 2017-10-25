@@ -14,6 +14,9 @@ Tutorial de Instalação e Manutenção WordPress
    titulo_subtitulo_logo
    opcao_do_tema
    menus
+   wigdets
+   pagina_inicial_estatica
+   secao_estilo
 
 
 .. _about-docs:
