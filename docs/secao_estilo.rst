@@ -183,7 +183,9 @@ Seção: Contador
 		Há 4 itens: Projects completed, positive feedback, pizzas ordered e average cost per hour.
 		Lembrando que é possível alterar Título e os demais atributos.
 
-
+	.. note:: Está seção não aparece no menu primary, mas sim na página inicial do site.
+	
+	
 Seção: Equipe
 -------------
 
@@ -198,4 +200,35 @@ Seção: Equipe
 
 	Em Section Content:
 
-		Há 4 itens, sendo possível a customização do User Media (imagem do usuário) e Custom Link (url do portfólio, website etc.).
+		Nesta seção aparecem 4 itens, sendo possível a customização do User Media (imagem do usuário) e Custom Link (url do portfólio, website etc.).
+
+
+Seção: Notíciais
+----------------
+
+	Nesta seção podemos configurar a opção para **ocultar a seção** na página inicial, **modificar o ID da seção**, **Título**, **Subtítulo**, **Descrição**, configurar o **número de posts** que aparecerá na página, link do botão e o texto do botão.
+
+
+Seção: Contato
+--------------
+
+	Em Section Settings:
+
+		* Oferece a opção de ocultar seção,
+		* Section ID: nome do seção,
+		* Título,
+		* Subtítulo,
+		* Descrição.
+
+	Em Section Content:
+
+		Nesta seção haverá um campo de configuração do **formulário de contato** que está predefinido como ``[contact-form-7 title="Frontpage contact"]``, tendo como opção para ocultá-lo.
+
+		Há um campo de **Texto de contato**, basta clicar em cima do campo para poder editá-lo.
+
+		Título da caixa de contato, Endereço, Telefone, E-mail, Fax.
+
+
+	O formulário de contato pode ser editado também, para isso vá na pagina inicial do wordpress, clique em **contato**, haverá 3 itens, basta editar um dos itens, salvar e copiar o **shortcode** e colar na seção de contato.
+
+
