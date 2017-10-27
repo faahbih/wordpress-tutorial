@@ -17,7 +17,11 @@ Tutorial de Instalação e Manutenção WordPress
    wigdets
    pagina_inicial_estatica
    secao_estilo
-
+   css_adicional
+   paginas
+   posts
+   plugins
+   links
 
 .. _about-docs:
 
