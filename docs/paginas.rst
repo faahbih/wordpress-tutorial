@@ -10,8 +10,7 @@ Páginas
 
 		Exemplo, ``Home``:
 
-			Quando clicamos na página da ``Home``, não conseguiremos ver seu conteúdo, mas por quê? Por que como ela é a página inicial do nosso site, ela composta por diversas seções, então não conseguimos apenas editar no modo de texto e sim editar cada seção `secao_estilo`_ (Hero, Services, News, Contact etc.).
-
+			Quando clicamos na página da ``Home``, não conseguiremos ver seu conteúdo, mas por quê? Por que como ela é a página inicial do nosso site, ela composta por diversas seções, então não conseguimos apenas editar no modo de texto e sim editar cada seção (Hero, Services, News, Contact etc.).
 
 		Outro exemplo é a ``Gallery``:
 
@@ -20,6 +19,30 @@ Páginas
 			Para podermos ver as imagens que contemplam a galeria, basta alternar o modo de **texto** para **visual** (canto direito do editor). Aí é só clicar em cima da galeria e editar as imagens normalmente.
 
 
-		Haverá páginas que conseguiremos editar normalmente no editor, por exemplo a página predefinada pelo tema OnePress ``Sample Page``.
+		Haverá páginas que conseguiremos editar normalmente no editor, por exemplo a página predefinada pelo tema OnePress ``Sample Page``, sendo possível alternar entre modo **visual** e modo de **texto** (modo html).
+
+Criar página
+------------
+
+		Para criar uma página, basta ir em **Páginas** > **Adicionar nova**:
+
+			* Há os campos de Título (lembre-se que o título provavelmente será o nome da url) e do próprio editor de texto.
+			* Há o botão de **Adicionar mídia** e nela contém outros itens como: criar galeria, criar lista de reprodução de áudio, criar lista de reprodução de vídeo, Imagem destacada e inserir a partir do URL.
+			  
+
+		No lado direito aparece **Publicar** com as informações do:
+
+			* Status: Rascunho, Revisão Pendente ...
+			* Visibilidade: Público, Protegido por senha, Privado.
+			* Publicar imediatamente: campos de data e hora.
+			  
+		Logo abaixo aparece **Atributos da página**:
+
+			* Mãe: se está ou não vinculada a outra página;
+			* Modelo: Modelo padrão, barra lateral na esquerda, largura completa, página inicial.
+			  
+		Por fim tem **Imagem destacada**
+
+			* Possível definir uma imagem de destaque caso seja necessário.
 
 
