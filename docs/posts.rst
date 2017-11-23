@@ -1,7 +1,7 @@
 Posts
 =====
 
-	Em painel do wordpress, há o item **Posts**, onde existem alguns predefinados por padrão.
+	Em painel do wordpress, há o item **Posts**, onde existem alguns predefinidos por padrão.
 
 	Lembra basicamente uma **página**, porém com algumas diferenças como:
 

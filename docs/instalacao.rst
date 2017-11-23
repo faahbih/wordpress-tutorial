@@ -8,13 +8,13 @@ Modo local
 
   Existem aplicativos que podemos baixar e configurar para executar um web site em nosso próprio computador.
 
-  Esse programas servem para criar servidores independente da plataforma e consistem principalmente na base de dados MySQL, o servidor web Apache e os interpretadores para linguagens de script: PHP e Perl, além do WordPress, você poderá instalar qualquer software que use estas linguagens.
+  Esses programas servem para criar servidores independente da plataforma e consistem principalmente na base de dados MySQL, o servidor web Apache e os interpretadores para linguagens de script: PHP e Perl, além do WordPress, você poderá instalar qualquer software que use estas linguagens.
 
   * `XAMPP <http://www.apachefriends.org/pt_br/xampp-windows.html>`_.
   * `WAMP <http://www.profissionaisti.com.br/2012/03/instalando-apache-php-mysql-no-windows-com-wamp/>`_.
   * `MAMP <http://www.profissionaisti.com.br/2012/04/instalando-apache-php-mysql-no-mac-os-com-mamp/>`_ (para Mac).
     
-  no meu caso, eu utilizei o WAMP, pois com alguns poucos passos, ele começou a funcionar.
+  no meu caso, utilizei o WAMP, pois com alguns poucos passos, você consegue testar seu site.
 
 
   Passo a passo:
@@ -63,6 +63,4 @@ WordPress local para Site Web
   Tente acessar seu site e observe se consegue acessar os links normamente no site.
 
 
-
-
-
+  .. note:: Há sites de hospedagem que já possuem wordpress configurado, basta apenas instalá-lo e seguir os passos que o site disponibiliza.
