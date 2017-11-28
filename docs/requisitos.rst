@@ -9,3 +9,5 @@ Requisitos
 	* Suporte a HTTPS.
 	  
 	¹Servidores Microsoft funcionam com algumas limitações e/ou dependência de recursos específicos por parte do servidor. referência: `Site do WordPress <https://codex.wordpress.org/pt-br:Instalando_o_WordPress>`_.
+
+	
